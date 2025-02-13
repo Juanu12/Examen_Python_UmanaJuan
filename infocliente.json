@@ -1,0 +1,13 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Zara",
+            "apellido": "Rodriguz",
+            "Direccion": "cra 44 #23a",
+            "Telefono": "3039575",
+            "Correo": "Zara504@hotmail.com",
+            "Tiempo": "1 año",
+            "Categoria": ""
+        }
+    ]
+}
